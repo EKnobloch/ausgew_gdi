@@ -1,2 +1,3 @@
 https://de.wikipedia.org/wiki/Bin%C3%A4rbild
+https://de.wikipedia.org/wiki/Windows_Bitmap
 http://www.technical-recipes.com/2011/creating-bitmap-files-from-raw-pixel-data-in-c/
